@@ -23,7 +23,7 @@ switch (key) {
     
     case "a":
 
-        var audio2 = new Audio("sounds/kick.mp3");
+        var audio2 = new Audio("sounds/kick-bass.mp3");
         audio2.play();   
     break;
     
